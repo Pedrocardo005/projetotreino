@@ -6,6 +6,7 @@ export default function Dados(props){
             <p>Canal:{props.canal} </p>
             <p>Youtube:{props.youtube} </p>
             <p>Curso:{props.curso} </p>
+            <p>Nada de mais</p>
         </section>
     )
 }
