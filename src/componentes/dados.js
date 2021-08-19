@@ -7,7 +7,7 @@ export default function Dados(props){
             <p>Youtube:{props.youtube} </p>
             <p>Curso:{props.curso} </p>
             <p>Nada de mais</p>
-            <p>Teste 2</p>
+            <p>Teste 3</p>
         </section>
     )
 }
